@@ -1,0 +1,15 @@
+h1 {
+    padding-left: 550px;
+    background-color: gray;
+    border-style: groove;
+}
+
+h2 {
+    padding-left: 800px;
+    background-color: gray;
+    border-style: groove;
+}
+
+body {
+    background-color: rgb(212, 212, 212);
+}
